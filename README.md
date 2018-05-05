@@ -22,5 +22,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 Link: https://ancient-headland-90014.herokuapp.com/
 
 #### Screenshots of the pages
-![alt text](screenshots/Screenshot01.png "")
+![alt text](screenshots/Screenshot01.png "Post List Page")
+![alt text](screenshots/Screenshot02.png "Add Post Page")
+![alt text](screenshots/Screenshot03.png "Post Detail Page")
 
