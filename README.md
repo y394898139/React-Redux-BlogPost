@@ -22,5 +22,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 Link: https://ancient-headland-90014.herokuapp.com/
 
 #### Screenshots of the pages
-![alt text](/screenshots/Screenshot 01.png)
+![alt text](../screenshots/Screenshot 01.png)
 
