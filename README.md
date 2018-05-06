@@ -31,6 +31,3 @@ Link: https://ancient-headland-90014.herokuapp.com/
 
 #### Post Detail Page
 ![alt text](screenshots/Screenshot03.png "Post Detail Page")
-
-#### Page on a mobile device （responsive）
-![alt text](screenshots/Screenshot04.png "")
